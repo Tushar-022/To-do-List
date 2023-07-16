@@ -1,9 +1,7 @@
-
-
 body {
+  background-color:antiquewhite;
   width: 50%;
   margin: 0 auto;
-  background-color: azure;
 }
 
 header {
@@ -62,7 +60,7 @@ article {
   padding: 10px;
   font-size: 14px;
   color: #6c6777;
-  background-color: #cfc6c6;
+  background-color: #fff;
   border: none;
   cursor: pointer;
   width: 100px;
